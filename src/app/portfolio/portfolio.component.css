@@ -1,0 +1,12 @@
+img{
+    width: 100%;
+}
+.position-absolute{
+    background-color: transparent;
+}
+.position-absolute:hover{
+    cursor: pointer;
+    background-color: blueviolet;
+    opacity: 0.8;
+    transition: 0.5s;
+}
